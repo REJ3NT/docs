@@ -52,6 +52,7 @@
     {
       "group": "Get Started",
       "pages": [
+        "launchpad",
         "introduction",
         "quickstart",
         "development"
@@ -84,6 +85,7 @@
     }
   ],
   "footerSocials": {
+    "website": "https://voidy.host",
     "x": "https://x.com/voidyhost",
     "twitch": "https://twitch.tv/voidyhost",
     "discord": "https://discord.gg/",

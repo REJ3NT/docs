@@ -1,29 +1,29 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Conocimientos (Knowledgebase)",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#5E910F",
+    "light": "#7FDC00",
+    "dark": "#5E910F",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#5E910F",
+      "to": "#7FDC00"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Soporte",
+      "url": "mailto:help@voidy.host"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Clientes",
+    "url": "https://my.voidy.host"
   },
   "tabs": [
     {
@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Comunidad",
+      "icon": "discord",
+      "url": "https://discord.gg/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Post",
+      "icon": "x-twitter",
+      "url": "https://x.com/voidyhost"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Estado",
+      "icon": "signal-bars",
+      "url": "https://status.voidy.host"
     }
   ],
   "navigation": [
@@ -84,8 +84,11 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/voidyhost",
+    "twitch": "https://twitch.tv/voidyhost",
+    "discord": "https://discord.gg/",
+    "github": "https://github.com/voidyhost",
+    "instagram": "https://instagram.com/voidyhost",
+    "linkedin": "https://www.linkedin.com/company/voidyhost"
   }
 }
